@@ -3,7 +3,7 @@
 This program uses Selenium to navigate the Wilfrid Laurier University's Covid Website automatically produce my Covid Badge, screenshot it and send it to my phone via email.
 ## Disclaimer
 
-This program is independently made and not affiliated with any academic institution or any entity. The program is not intended to violate any community guidelines or infringe on any copyrights or intellectual property. Everything in the program is not intended for use and does not reflect or represent anything outside of the program.
+> This program is independently made and not affiliated with any academic institution or any entity. The program is not intended to violate any community guidelines or infringe on any copyrights or intellectual property. Everything in the program is not intended for use and does not reflect or represent anything outside of the program.
 
 
 
